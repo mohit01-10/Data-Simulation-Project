@@ -1,4 +1,4 @@
-# Data-Simulation-Project
+# Data Modelling and Simulation Project
 This repository contains the source code for my Rocket Flight Simulation project. The project is built using Python and leverages the tkinter module for real-time visualization, incorporating libraries such as Tkinter, Matplotlib, and Plotly to simulate and visualize rocket flight data in action.
 Data:
 1. Flight duration
