@@ -5,7 +5,7 @@ Data:
 2. Velocity
 3. Height
 4. Trajectory 
-5. Accleartion( Displaayed on the console)
+5. Accleartion( Displayed on the console)
 
 I built this project to simulate the flight of a rocket, taking into account various physical factors. It offers real-time visualization of rocket velocity, altitude, and trajectory. 
 
