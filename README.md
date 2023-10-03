@@ -7,6 +7,10 @@ Data:
 4. Trajectory 
 5. Accleartion( Displayed on the console)
 
+How to run?
+Run the python file in vscode. 
+Instructions:
+Click the launch button to start. Click Abort button to stop the simulation. 
 I built this project to simulate the flight of a rocket, taking into account various physical factors. It offers real-time visualization of rocket velocity, altitude, and trajectory. 
 
 Feel free to clone this repository, explore the code, and provide feedback or contributions. I welcome collaboration and the opportunity to learn and grow as a developer.
